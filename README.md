@@ -8,7 +8,7 @@ Planned Key Components:
 3. GPT-4 Integration:
     * Integrate GPT-4 to power the chatbot's natural language processing and response generation. You can use the GPT-4 API to generate responses based on the questions asked by potential employers.
 4. MySQL Database:
-    * Store your detailed resume, project descriptions, skills, and other relevant information in a MySQL database. The chatbot can query this database to provide specific details or to tailor responses based on user queries.
+    * Store my detailed resume, project descriptions, skills, and other relevant information in a MySQL database. The chatbot can query this database to provide specific details or to tailor responses based on user queries.
 
 5. API Gateway (Node.js):
     * Implement an API gateway in Node.js to manage the integration of MySQL components with the chatbot's backend. The gateway can route requests to the appropriate service, depending on the query's complexity or the need for specific processing.
