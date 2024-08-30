@@ -1,6 +1,6 @@
-Chatbot app 
+### Kyrachatbot
 
-Planned Key Components:
+Key Components:
 1. Frontend (React):
     * Develop the user interface where potential employers can interact with the Kyra Chatbot. This interface will allow users to type in questions and receive responses from the chatbot.
 2. Backend (Node.js/Express):
@@ -11,6 +11,5 @@ Planned Key Components:
 4. API Gateway (Node.js):
     * Implement an API gateway in Node.js to manage the integration of MongoDB components with the chatbot's backend. The gateway can route requests to the appropriate service, depending on the query's complexity or the need for specific processing.
   
-   
 5. Deployment:
-    * Host the chatbot on AWS, ensuring that all components are properly integrated and can scale as needed.
+    * Host the chatbot on AWS, ensuring that all components are properly integrated.
