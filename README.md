@@ -1,6 +1,6 @@
 ### Kyrachatbot
 
-Here are the key components of the project:
+Hi there! You made it. Here are the key components of the project:
 
 1. Frontend (React):
     * Develop the user interface where potential employers can interact with the Kyra Chatbot. This interface will allow users to type in questions and receive responses from the chatbot.
