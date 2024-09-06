@@ -1,7 +1,5 @@
 ### Kyrachatbot
 
-<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
-
 Hi there! Glad you made it here. 
 
 This repository contains a full-stack application that integrates a chatbot powered by GPT-4o. The app is designed to assist potential employers by answering questions about the developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
