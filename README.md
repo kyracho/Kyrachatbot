@@ -204,5 +204,5 @@ Once everything is set up, the chatbot should be live on the frontend. Users can
 
 This README should provide a clearer path for anyone replicating your app. Let me know if you need further clarification on any step!
 
-The UI:
+
 <img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
