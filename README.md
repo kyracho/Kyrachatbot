@@ -6,7 +6,7 @@ In case you want to replicate this project for your use, here are its key compon
 
 1. Frontend (React):
     * Developed the user interface where potential employers can interact with the Kyra Chatbot. This interface allows users to type in questions and receive responses from the chatbot.
-    * The user interface resembles the iMessage interface for its simplicity and ease of use.<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
+    * The user interface was built to visually resemble the iMessage, because it feels the most familiar.<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
     * This includes a typing indicator bubble containing three color-switching dots that switch between light grey and dark grey, sequentially.
     * The chat window automatically scrolls down to the newest message.  
 
