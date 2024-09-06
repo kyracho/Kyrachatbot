@@ -4,6 +4,8 @@ Hi there! Glad you made it here.
 
 This repository contains a full-stack application that integrates a chatbot powered by GPT-4o. The app is designed to assist potential employers by answering questions about the developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
 
+<img width="870" alt="Screenshot 2024-09-05 at 7 02 58 PM" src="https://github.com/user-attachments/assets/198551ac-64b2-45cd-b359-47218a994243">
+
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -198,10 +200,3 @@ The app is hosted on AWS EC2. Follow these steps to deploy your application:
 Once everything is set up, the chatbot should be live on the frontend. Users can ask questions about your resume, work experience, and other relevant details. The chatbot will either:
 - Retrieve predefined answers from the MongoDB Atlas database, or
 - Generate new responses using the GPT-4o API.
-
----
-
-This README should provide a clearer path for anyone replicating your app. Let me know if you need further clarification on any step!
-
-
-<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
