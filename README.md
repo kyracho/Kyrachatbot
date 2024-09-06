@@ -1,5 +1,7 @@
 ### Kyrachatbot
 
+<img width="573" alt="Screenshot 2024-09-05 at 3 57 12 PM" src="https://github.com/user-attachments/assets/41223280-fcd7-48e6-b270-20a7de7f4211">
+
 Hi there! Glad you made it here. Here are the key components of the project:
 
 1. Frontend (React):
