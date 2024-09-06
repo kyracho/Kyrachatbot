@@ -2,25 +2,9 @@
 
 Hi there! Glad you made it here. 
 
-___
 This repository contains a full-stack application that integrates a chatbot powered by GPT-4o. The app is designed to assist potential employers by answering questions about the developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
 ___
-
-In case you want to replicate this project for your use, here are its key components:
-
-1. **Frontend (React):**
-    * Developed the user interface where potential employers can interact with the Kyra Chatbot. This interface allows users to type in questions and receive responses from the chatbot.
-    * The user interface was built to visually resemble the iMessage app.<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
-    * This includes a typing indicator bubble containing three color-switching dots that switch between light grey and dark grey, sequentially.
-    * The chat window automatically scrolls down to the newest message.  
-
-Here’s an expanded version of your GitHub README, providing more in-depth instructions on how to replicate the app:
-
----
-
-# GPT-4o Chatbot for Job Applications
-
-This repository contains a full-stack application that integrates a chatbot powered by GPT-4o. The app is designed to assist potential employers by answering questions about the developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
+<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -39,7 +23,7 @@ This repository contains a full-stack application that integrates a chatbot powe
 
 ## Tech Stack
 - **Backend**: Node.js, Express, MongoDB Atlas
-- **Frontend**: React (or your preferred frontend framework)
+- **Frontend**: React 
 - **Chatbot**: GPT-4o via OpenAI API
 - **Database**: MongoDB Atlas
 - **Hosting**: AWS EC2
