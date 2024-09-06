@@ -77,7 +77,6 @@ Follow these steps to replicate and run the application on your local machine an
 1. **Environment Variables**:
    Create a `.env` file in the `backend` directory with the following information:
    ```bash
-   PORT=5000
    MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/gpt-chatbot?retryWrites=true&w=majority
    OPENAI_API_KEY=your-openai-api-key
    ```
