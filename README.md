@@ -5,6 +5,8 @@ Hi there! Glad you made it here. Here are the key components of the project:
 1. Frontend (React):
     * Developed the user interface where potential employers can interact with the Kyra Chatbot. This interface allows users to type in questions and receive responses from the chatbot.
     * The user interface resembles the iMessage interface for its simplicity and ease of use.<img width="569" alt="Screenshot 2024-09-05 at 5 07 28 PM" src="https://github.com/user-attachments/assets/ce5d526a-8dd0-4077-a501-94c3f590700c">
+    * This includes a typing indicator bubble containing three color-switching dots that switch between light and dark grey, sequentially.
+    * The chat window automatically scrolls down to the newest message.  
 
 2. Backend (Node.js/Express/MongoDB Atlas):
     * Used Node.js with Express to handle API requests, manage sessions, and interact with the GPT-4 model and MongoDB Atlas. The backend is responsible for processing user inputs, querying the MongoDB database, and returning the responses to the frontend. Storing the chatbot's instructions in MongoDB simplifies post-deployment adjustments, which is critical.
