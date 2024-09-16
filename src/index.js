@@ -16,5 +16,4 @@ root.render(
 
 // Measuring performance in the app
 // reportWebVitals is used to capture and log performance metrics
-// You can pass a function to log results (e.g., console.log) or send data to an analytics endpoint
 // reportWebVitals();
