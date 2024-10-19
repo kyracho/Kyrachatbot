@@ -2,7 +2,7 @@
 
 Hi there! Glad you made it here. 
 
-This repository contains my full-stack application that integrates a chatbot powered by GPT-4o. The app is designed to assist potential employers by answering questions about my developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
+This repository contains my full-stack application, an interview automator. The app is designed to assist potential employers by answering questions about my developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
 
 <img width="870" alt="Screenshot 2024-09-05 at 7 02 58 PM" src="https://github.com/user-attachments/assets/198551ac-64b2-45cd-b359-47218a994243">
 
