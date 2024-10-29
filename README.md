@@ -4,7 +4,7 @@ Hi there! Glad you made it here.
 
 This repository contains my full-stack application, an interview automator chatbot. The app is designed to assist potential employers by answering questions about my developer's resume, work experience, and projects. The backend is built using Node.js and Express, and the database is hosted on MongoDB Atlas. The frontend is connected to the backend through an API gateway that manages data flow between services.
 
-<img width="870" alt="Screenshot 2024-09-05 at 7 02 58 PM" src="https://github.com/user-attachments/assets/198551ac-64b2-45cd-b359-47218a994243">
+<img width="1298" alt="Screenshot 2024-10-28 at 11 35 36 PM" src="https://github.com/user-attachments/assets/e6b181b4-08a0-4f52-b557-0d22cfa0cfc0">
 
 
 ## Table of Contents
